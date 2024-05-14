@@ -1,6 +1,6 @@
 # Kubernetes Demo Project: MongoDB and Mongo Express Deployment
 
-Welcome to the Kubernetes Demo Project! This tutorial is inspired by the practical and informative approach taken by the "Techworld with Nana" YouTube channel, which provides in-depth tutorials and technical explanations on Kubernetes and other DevOps tools. You can watch her tutorials [here](https://www.youtube.com/c/techworld-with-nana).
+Welcome to the Kubernetes Demo Project! 
 
 ## Overview
 

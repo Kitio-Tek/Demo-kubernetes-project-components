@@ -14,7 +14,7 @@ In this repository, you will find the following Kubernetes configuration files:
 - `mongo-secret.yaml` - Manages sensitive data like MongoDB user credentials.
 - `mongo-configmap.yaml` - Stores configuration data in a way that can be consumed by pods.
 - `mongo-express.yaml` - Deploys Mongo Express, which acts as a web-based MongoDB client.
-- `nginx-service.yaml` - Although named as an nginx service, this file is configured to expose the Mongo Express to external traffic (please check for misnaming).
+- `nginx-service.yaml` - Although named as an nginx service, this file is configured to expose the Mongo Express to external traffic .
 - `ingress.yaml` - Sets up ingress resources for accessing the services from outside the Kubernetes cluster.
 - `Slides/` - Contains presentation slides for educational purposes.
 - `k8s-commands.md` - A markdown file that lists useful Kubernetes commands.
